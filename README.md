@@ -1,11 +1,11 @@
-<h1 align="center">Hello 👋, I'm Yasmin Luzia</h1>
-<h3 align="center">A student on development, security and operations</h3>
+<h1>Hello 👋, I'm Yasmin Luzia</h1>
+<h3>A student on development, security and operations</h3>
 
 - 🌱 I’m currently learning **Javascript and Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/YasminLuzia](https://github.com/YasminLuzia)
 
-- 📫 How to reach me **yasmin.s.luzia@gmail.com**
+- 📫 You can reach me at **yasmin.s.luzia@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
