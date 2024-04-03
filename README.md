@@ -1,7 +1,7 @@
 <h1>Hello 👋, I'm Yasmin Luzia</h1>
 <h3>A student on development, security and operations</h3>
 
-- 🌱 I’m currently learning **Javascript and Python**
+- 🌱 I’m currently learning **Javascript, Python and PHP**
 
 - 👨‍💻 All of my projects are available at [https://github.com/YasminLuzia](https://github.com/YasminLuzia)
 
